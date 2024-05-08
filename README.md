@@ -1,4 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  	Study of Socket Programming
+### Register No: 212222230158
+### Name: Tamizh selvan
 
 ## Aim: 
 To perform a study on Socket Programming
